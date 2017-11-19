@@ -2415,6 +2415,7 @@
 
 			.thumbnails a h2 {
 				margin: 1em;
+				opacity: 1.0;
 			}
 
 			.thumbnails a:hover {
