@@ -2405,15 +2405,15 @@
 			outline: 0;
 			overflow: hidden;
 		}
-		/*
+		
 			.thumbnails a img {
 				display: block;
 				width: 100%;
 				border-top-left-radius: 4px;
 				border-top-right-radius: 4px;
-			}*/
+			}
 
-			.thumbnails a h3 {
+			.thumbnails a h2 {
 				margin: 1em;
 			}
 
